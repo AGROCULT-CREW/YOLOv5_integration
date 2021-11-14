@@ -1,0 +1,11 @@
+Flask
+pandas
+opencv-python-headless
+matplotlib
+seaborn
+torch
+pillow
+requests
+pyyaml
+tqdm
+torchvision
